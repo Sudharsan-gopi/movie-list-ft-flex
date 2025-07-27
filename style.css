@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: aquamarine;
+    font-family: "Montserrat", sans-serif;
+}
+h1{
+    padding-top: 50px;
+    margin-left: 1600px;
+}
+.container{
+    display: flex;
+     width: 3000px;
+     flex-wrap: wrap;
+     justify-content: space-around;
+}
+.colony{
+    height: 1350px;
+    width : 876px
+}
+.scent{
+    height: 1350px;
+    width : 876px
+}
+.good{
+    height: 1350px;
+    width : 876px
+}
+.virumaandi{
+    height: 1350px;
+    width : 865px
+}
+.ikiru{
+    height: 1300px;
+    width : 847px
+}
+.johnny{
+    height: 1300px;
+    width : 850px
+}
+.summer{
+   height: 1300px;
+    width : 850px
+}
+.angry{
+   height: 1300px;
+    width : 875px
+}
+.container div{
+    margin: 30px;
+}
